@@ -1,2 +1,2 @@
-# Compound_Distribution
-Developing compound distribution, Scipy, Numpy, Pandas, Scikit-learn
+# Accident Analysis
+Developing algorithm to analyze accident based on seasonality, Scipy, Numpy, Pandas, Scikit-learn
